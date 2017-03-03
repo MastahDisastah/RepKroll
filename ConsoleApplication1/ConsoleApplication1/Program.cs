@@ -11,7 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //lalalalalal
-            // lololololol
+        
+            int szesc = 6;
         }
     }
 }
