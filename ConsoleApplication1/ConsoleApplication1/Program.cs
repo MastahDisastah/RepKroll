@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             int zmienna1 = 20;
             int zmienna2 = 30;
+            int zmienna3 = 40;
         }
     }
 }
