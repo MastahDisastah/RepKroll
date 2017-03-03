@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            int zmienna1 = 20;
             int zmienna2 = 30;
         }
     }
