@@ -10,9 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //lalalalalal
-        
-            int szesc = 6;
+            int zmienna1 = 20;
+            int zmienna2 = 30;
+            int zmienna3 = 40;
         }
     }
 }
